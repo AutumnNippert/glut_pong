@@ -1,4 +1,4 @@
-#include "GameObjects.h"
+#include "Paddle.h"
 
 Paddle::Paddle() {}
 

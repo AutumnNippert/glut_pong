@@ -1,4 +1,4 @@
-#include "GameObjects.h"
+#include "Boundary.h"
 
 typedef GameObject super;
 

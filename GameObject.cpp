@@ -1,4 +1,4 @@
-#include "GameObjects.h"
+#include "GameObject.h"
 
 GameObject::GameObject() {}
 
@@ -23,6 +23,8 @@ GameObject::GameObject(float xPos, float yPos, float xLen, float yLen, float xVe
 }
 
 GameObject::~GameObject() {}
+
+void GameObject::draw() {}
 
 bool GameObject::isColliding(GameObject other)
 {
