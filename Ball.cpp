@@ -1,4 +1,4 @@
-#include "GameObjects.h"
+#include "Ball.h"
 #include <cmath>
 
 float randInRange(float min, float max)

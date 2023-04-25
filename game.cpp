@@ -2,7 +2,11 @@
 
 #include <cstdlib> // rand()
 
-#include "GameObjects.h"
+#include "Ball.h"
+#include "GameObject.h"
+#include "Paddle.h"
+#include "Boundary.h"
+
 
 #define SCREEN_WIDTH 720
 #define SCREEN_HEIGHT 720
